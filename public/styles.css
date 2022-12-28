@@ -1,0 +1,190 @@
+body {
+   
+  background-color: #2A0944;
+  background-image: url("https://i.pinimg.com/originals/5d/e0/8d/5de08de24459fedac3d28b10a039e2a6.jpg");
+ 
+  }
+  html {
+    font-family: "Montserrat", sans-serif;
+  }
+.add4{
+  background-image: url("https://i.pinimg.com/736x/bf/d3/bb/bfd3bb445b6bbbee85244fe8d0c4465a.jpg");
+  margin-right: -126px;
+  margin-left: -126px;
+  margin-bottom: -95px;
+  margin-top: -20px;
+}
+  header {
+    background-color: #2A0944;
+    margin: auto -126px;
+    padding: 16px 32px ;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  }
+
+  footer {
+    background-color: #2A0944;
+    margin: auto -126px;
+    padding: 16px 32px ;
+    margin-top: 100px;
+  
+  }
+  footer p,h6 {
+    color: #eee;
+    font-family:"Montserrat", sans-serif;
+    font-weight: -70px;
+    text-align: center;
+    
+  }
+  .col{
+    margin: auto -126px; 
+  }
+  
+  header h1 {
+    color: #eee;
+    font-family: "McLaren", cursive;
+    font-weight: 200;
+    text-align: center;
+  }
+
+ h1,h3,h4,h5,h6,h2{
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    
+ }
+
+ 
+
+
+.add{
+  height:530px;
+  width:700px;
+  margin-left:300px;
+  margin-top: 50px;
+  color:#eee;
+  background-image: url("https://media.istockphoto.com/id/1339787499/photo/empty-dark-blue-studio-room-with-light-and-shadow-abstract-background-copy-space-studio-room.jpg?b=1&s=170667a&w=0&k=20&c=sEYFpHbrxOugC-NlO4vh1AQurJAsR-RnLbg_KHgj3kM=");
+}
+.add1{
+  height:450px;
+  width:200px;
+  margin-top: 50px;
+  color:#eee;
+  background-image: url("https://i.pinimg.com/736x/bf/d3/bb/bfd3bb445b6bbbee85244fe8d0c4465a.jpg");
+}
+
+.add3{
+  height:300px;
+  width:500px;
+  margin-left:570px;
+  margin-top: 50px;
+  color:#eee;
+  background-image: url("https://media.istockphoto.com/id/1184802478/vector/abstract-blurred-background-defocused-blue-gradient.jpg?s=170667a&w=0&k=20&c=JTgIPrgbrEPE76oLEf5fkV8_Ucy9zLZszjPn1lXigQ4=");
+}
+ .margin1{
+  margin-left: 150px;
+  margin-top: 20px;
+ }
+ .margin2{
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-right: 30px;
+  
+ }
+ .margin3{
+  margin-left: 250px;
+  margin-top: 20px;
+ }
+ .margin4{
+  margin-left: 200px;
+  margin-top: 20px;
+ }
+ .b3{
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-right: 30px;
+  color:#f5ba13;
+ }
+
+ .contact{
+  display:block;
+  width:460px;
+  height:370px;
+  margin-left: 100px;
+  margin-top: 140px;
+  color: #fff;
+  background-image: url("https://thumbs.dreamstime.com/b/abstract-shaped-dark-purple-color-background-wallpaper-website-ui-244786317.jpg");
+ }
+
+ .contact1{
+  display:block;
+  width:500px;
+  height:630px;
+  margin-left: 100px;
+  margin-top: 50px;
+  background-image: url("https://images.saymedia-content.com/.image/t_share/MTc4NzM1OTc4MzE0MzQzOTM1/how-to-create-cool-website-backgrounds-the-ultimate-guide.png");
+ }
+.carousel{
+
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-right: 30px;
+}
+ 
+.ball {
+  margin-top: 100px;
+  margin-left:40px ;
+   height:350px;
+   background-image: url("https://s40424.pcdn.co/in/wp-content/uploads/2022/07/digital-marketing-courses.jpg");
+   border: 2px solid #2A0944;
+  animation: bounce 1s infinite alternate;
+  -webkit-animation: bounce 1s infinite alternate;
+}
+@keyframes bounce {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-15px);
+  }
+}
+@-webkit-keyframes bounce {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-15px);
+  }
+}
+
+
+
+.item{
+  min-height: 10rem;
+  min-width: 30rem;
+  padding: 5px;
+
+}
+ 
+.item img{
+  width: 60%;
+  height: 50%;
+  border-radius: 1rem;
+  pointer-events: none;
+  padding: 15%;
+}
+ 
+.inner-carousel {
+  display: flex;
+  background: rgb(76, 76, 76);
+  height: 23rem;
+}
+ 
+.carousel1{
+  cursor: grab;
+  overflow: hidden;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTatBqs90dcUaI5e75b8-desmle2yh9WYDlAg&usqp=CAU");
+  
+  height: 17rem;
+  width: 470px;
+  margin-top: 120px;
+ margin-left: 100px;
+}
